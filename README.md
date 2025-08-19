@@ -1,7 +1,7 @@
 ## Olá, sou o Lee(apelido).
 
-📖 Português, Inglês, Mandarim
-💻 Programador (Estudante de ADS)
+📖 Português, Inglês, Mandarim <br>
+💻 Programador (Estudante de ADS) <br>
 
 
 ## 🌐 Socials:
